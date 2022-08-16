@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋🏼 welcome to my Github! I'm a Tech-enthusiast Mechatronics Engineer, Open Source Contributor,
+<h4 align="center"><samp> Hi there 👋🏼 welcome to my GitHub! I'm a Tech-enthusiast Mechatronics Engineer, Open Source Contributor,
 <h4 align="center"> and Embedded Systems Passionate. 👨‍💻 I also like C/C++ and I'm exploring Automotive Programming 🏎️</samp></h4>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <p align="center">
 <a href= "https://www.linkedin.com/in/hossamnasri/"><img width="35" src="https://img.icons8.com/ios-filled/344/linkedin.png"/></a>
 <a href= "https://www.facebook.com/hossamnasriiii/"><img width="35" src="https://img.icons8.com/ios-filled/344/facebook.png"/></a>
-<a href= "tel:+20 111-449-6811"><img width="35" src="https://img.icons8.com/ios-glyphs/344/whatsapp.png"/></a>
+<a href= "tele:+20 111-449-6811"><img width="35" src="https://img.icons8.com/ios-glyphs/344/whatsapp.png"/></a>
 <a href= "mailto:hossamnasri99@outlook.com/"><img width="35" src="https://img.icons8.com/ios-filled/344/ms-outlook.png"/></a>
 </p>  
 
