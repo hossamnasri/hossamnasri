@@ -6,10 +6,6 @@
 
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/hossamnasri/"><img src="https://cdnicons.flaticon.com/png/512/3536/premium/3536569.pngtoken=exp=1660650890~hmac=b97eb9399856934d7cf1e14ed88968f4"/></a>
-
-![image](https://user-images.githubusercontent.com/58945456/184874727-4854e4a7-7f0a-49c3-8ffe-6086fae3df17.png)
-
 <a href= "https://www.linkedin.com/in/hossamnasri/"><img src="![image](https://user-images.githubusercontent.com/58945456/184874727-4854e4a7-7f0a-49c3-8ffe-6086fae3df17.png)"/></a>
 <a href= "https://www.facebook.com/hossamnasriiii/"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051309.png"/></a>
 <a href= "hossamnasri99@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732072.png"/></a>
